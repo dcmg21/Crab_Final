@@ -2,7 +2,7 @@
 
 Predicting Crab Age by Body Metrics
 
-Group Presentation (video)
-Predicted ages of crabs for the competition set
-RShiny Dashboard
-RMarkdown
+1.  Group Presentation (video)
+2.  Predicted ages of crabs for the competition set
+3.  RShiny Dashboard
+4.  RMarkdown
